@@ -2,6 +2,10 @@
 
 A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 
+## Async
+
+- [step.js](https://www.npmjs.com/package/step.js): small step library.
+
 ## Browserify
 
 - [browserify](https://www.npmjs.com/package/browserify): use `require` in the
@@ -121,7 +125,6 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   all of the properties from each object in a list.
 - [split-object](https://github.com/timoxley/split-object): work with objects
   using built-in functional array methods.
-- [step.js](https://www.npmjs.com/package/step.js): small step library.
 
 ## Graphics
 
