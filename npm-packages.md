@@ -7,6 +7,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [step.js](https://www.npmjs.com/package/step.js): small step library.
 - [run-parallel](https://www.npmjs.com/package/run-parallel): run an array of
   functions in parallel.
+- [run-waterfall](https://www.npmjs.com/package/run-waterfall): run an array of
+  functions in series, each passing its results to the next function.
 
 ## Browserify
 
