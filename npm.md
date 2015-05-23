@@ -9,3 +9,11 @@
 ```
 npm config set prefix <directory>
 ```
+
+## Usage
+
+### Bump version (and create a git commit with a tag)
+
+```
+npm version <patch|minor|major> -m "<message>"
+```
