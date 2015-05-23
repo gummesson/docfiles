@@ -9,6 +9,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   functions in parallel.
 - [run-waterfall](https://www.npmjs.com/package/run-waterfall): run an array of
   functions in series, each passing its results to the next function.
+- [run-series](https://www.npmjs.com/package/run-series): run an array of
+  functions in series.
 
 ## Browserify
 
