@@ -5,6 +5,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 ## Async
 
 - [step.js](https://www.npmjs.com/package/step.js): small step library.
+- [run-parallel](https://www.npmjs.com/package/run-parallel): run an array of
+  functions in parallel.
 
 ## Browserify
 
