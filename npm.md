@@ -6,6 +6,6 @@
 
 ### Set prefix (for installing packages globally)
 
-~~~
+```
 npm config set prefix <directory>
-~~~
+```
