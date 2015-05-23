@@ -1,6 +1,6 @@
 # npm-packages
 
-A collection of useful and/or interesting [npm](https://npmjs.org/) packages.
+A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 
 ## Browserify
 
@@ -8,9 +8,9 @@ A collection of useful and/or interesting [npm](https://npmjs.org/) packages.
   browser.
 - [brfs](https://www.npmjs.com/package/brfs): `fs.readFileSync()` static asset
   inliner.
-- [babelify](https://npmjs.org/package/babelify): transpile your code with
+- [babelify](https://npmjs.com/package/babelify): transpile your code with
   [Babel](https://babeljs.io/).
-- [uglifyify](https://npmjs.org/package/uglifyify): minify your code using
+- [uglifyify](https://npmjs.com/package/uglifyify): minify your code using
   [UglifyJS](https://www.npmjs.com/package/uglify-js).
 - [budo](https://www.npmjs.com/package/budo): a browserify server for rapid
   prototyping.
@@ -60,7 +60,7 @@ A collection of useful and/or interesting [npm](https://npmjs.org/) packages.
 
 ## CSS
 
-- [cssnext](https://npmjs.org/package/cssnext): use tomorrow's CSS syntax today.
+- [cssnext](https://npmjs.com/package/cssnext): use tomorrow's CSS syntax today.
 - [normalize.css](https://www.npmjs.com/package/normalize.css): make browsers
   render all elements more consistently and in line with modern standards.
 
@@ -125,7 +125,7 @@ A collection of useful and/or interesting [npm](https://npmjs.org/) packages.
 
 ## Graphics
 
-- [yako](https://npmjs.org/package/yako): tiny DOM-less graph library.
+- [yako](https://npmjs.com/package/yako): tiny DOM-less graph library.
 - [chart.js](https://www.npmjs.com/package/chart.js): simple HTML5 charts using
   the canvas element.
 - [chartist.js](https://github.com/gionkunz/chartist-js): simple responsive
@@ -153,7 +153,7 @@ A collection of useful and/or interesting [npm](https://npmjs.org/) packages.
 
 ## Linting
 
-- [eslint](https://npmjs.org/package/eslint): pluggable linting utility.
+- [eslint](https://npmjs.com/package/eslint): pluggable linting utility.
 - [stylelint](https://www.npmjs.com/package/stylelint): modern CSS linter.
 
 ## POSIX
@@ -193,7 +193,7 @@ A collection of useful and/or interesting [npm](https://npmjs.org/) packages.
 
 ## Testing
 
-- [tape](https://npmjs.org/package/tape): TAP-producing test harness for Node.js
+- [tape](https://npmjs.com/package/tape): TAP-producing test harness for Node.js
   and browsers.
 - [covert](https://www.npmjs.com/package/covert): code coverage command.
 - [smokestack](https://www.npmjs.com/package/smokestack): pipe your JavaScript
@@ -205,7 +205,7 @@ A collection of useful and/or interesting [npm](https://npmjs.org/) packages.
 
 ## Tools
 
-- [napa](http://npmjs.org/package/napa): helper for installing repos without a
+- [napa](http://npmjs.com/package/napa): helper for installing repos without a
   `package.json`.
 - [linklocal](https://www.npmjs.com/package/linklocal): install local
   dependencies as symlinks.
@@ -214,4 +214,4 @@ A collection of useful and/or interesting [npm](https://npmjs.org/) packages.
 - [nodemon](https://www.npmjs.com/package/nodemon): simple monitor script for
   use during development.
 - [psy](https://www.npmjs.com/package/psy): process monitor command.
-- [meow](https://npmjs.org/package/meow): command line application helper.
+- [meow](https://npmjs.com/package/meow): command line application helper.
