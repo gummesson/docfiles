@@ -2,5 +2,5 @@
 
 ## Resources
 
-- [cheatsheets](http://ricostacruz.com/cheatsheets/): for web development and
+- [Cheatsheets](http://ricostacruz.com/cheatsheets/): for web development and
   more.
