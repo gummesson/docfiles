@@ -64,6 +64,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   [virtual-dom](https://www.npmjs.com/package/virtual-dom).
 - [custom-element](https://www.npmjs.com/package/custom-element): light wrapper
   for creating custom element prototypes.
+- [custom-element-styles](https://www.npmjs.com/package/custom-element-styles):
+  automatically inject styles into a custom element's Shadow DOM.
 - [document-register-element](https://www.npmjs.com/package/document-register-element):
   standalone working lightweight version of the W3C Custom Elements
   specification.
