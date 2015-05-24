@@ -1,6 +1,6 @@
 # longreads
 
-A collection of useful and/or interesting longform stories.
+A collection of interesting longform stories.
 
 ## Cybercrime
 
