@@ -133,6 +133,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   all of the properties from each object in a list.
 - [split-object](https://github.com/timoxley/split-object): work with objects
   using built-in functional array methods.
+- [curry](https://www.npmjs.com/package/curry): flexible but simple curry
+  function.
 
 ## Graphics
 
