@@ -126,6 +126,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 
 - [continuous-stream](https://www.npmjs.com/package/continuous-stream): Streams
   for JavaScript, also known as lazy sequences.
+- [fast.js](https://github.com/codemix/fast.js): faster user-land
+  reimplementations for several common builtin native JavaScript functions.
 
 ## Functions
 
