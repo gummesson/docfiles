@@ -135,6 +135,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   using built-in functional array methods.
 - [curry](https://www.npmjs.com/package/curry): flexible but simple curry
   function.
+- [array-shuffle](https://www.npmjs.com/package/array-shuffle): randomize the
+  order of items in an array.
 
 ## Graphics
 
