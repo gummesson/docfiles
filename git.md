@@ -6,7 +6,7 @@ speed and efficiency.
 
 ## Usage
 
-Get latest commit hash:
+### Get latest commit hash
 
 ```
 git rev-parse HEAD
