@@ -139,6 +139,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   function.
 - [array-shuffle](https://www.npmjs.com/package/array-shuffle): randomize the
   order of items in an array.
+- [arraymax](https://www.npmjs.com/package/arraymax): get maximum value of
+  collection.
 
 ## Graphics
 
