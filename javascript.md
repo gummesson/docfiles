@@ -2,6 +2,11 @@
 
 A collection of useful and/or interesting resources about JavaScript.
 
+## Articles
+
+- [useful js: call and
+  apply](http://phuu.net/2012/11/02/javascript-function-call-and-function-apply.html)
+
 ## Books
 
 - [Speaking JavaScript: An In-Depth Guide for
