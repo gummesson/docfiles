@@ -12,3 +12,8 @@ speed and efficiency.
 git rev-parse HEAD
 git rev-parse --short HEAD
 ```
+
+## Websites
+
+- [First Aid Git](http://firstaidgit.io/): a searchable collection of the most
+  frequently asked Git questions.
