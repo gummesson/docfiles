@@ -6,6 +6,8 @@ A collection of useful and/or interesting resources about JavaScript.
 
 - [useful js: call and
   apply](http://phuu.net/2012/11/02/javascript-function-call-and-function-apply.html)
+- [useful js: curry and
+  bind](http://phuu.net/2012/11/02/javascript-function-call-and-function-apply.html)
 
 ## Books
 
