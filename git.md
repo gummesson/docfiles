@@ -13,6 +13,10 @@ git rev-parse HEAD
 git rev-parse --short HEAD
 ```
 
+## Guides
+
+- [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+
 ## Websites
 
 - [First Aid Git](http://firstaidgit.io/): a searchable collection of the most
