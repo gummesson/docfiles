@@ -12,3 +12,7 @@ A collection of useful and/or interesting resources about JavaScript.
 - [module best practices](https://github.com/mattdesl/module-best-practices)
 - [A Plain English Guide to JavaScript
   Prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
+
+## Websites
+
+- [JavaScript is Sexy](http://javascriptissexy.com/)
