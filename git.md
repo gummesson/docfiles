@@ -16,6 +16,7 @@ git rev-parse --short HEAD
 ## Guides
 
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
+- [Git workflow](https://github.com/asmeurer/git-workflow)
 
 ## Websites
 
