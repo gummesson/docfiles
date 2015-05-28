@@ -33,6 +33,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   IPv4 address.
 - [xit](https://www.npmjs.com/package/xit): configure an external display on
   Linux.
+- [gh-pages](https://www.npmjs.com/package/gh-pages): publish files to a
+  `gh-pages` branch on GitHub.
 
 ## Client
 
