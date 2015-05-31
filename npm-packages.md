@@ -109,6 +109,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   query plan.
 - [level-glob](https://www.npmjs.com/package/level-glob): create a read stream
   filtered and ordered by glob patterns.
+- [level-indexer](https://www.npmjs.com/package/level-indexer): generic indexer
+  for LevelDB.
 
 ## DOM
 
