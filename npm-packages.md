@@ -145,6 +145,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   order of items in an array.
 - [arraymax](https://www.npmjs.com/package/arraymax): get maximum value of
   collection.
+- [sliced](https://www.npmjs.com/package/sliced): A faster alternative to
+  `Array.prototype.slice.call(arguments)`.
 
 ## Graphics
 
