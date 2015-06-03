@@ -71,6 +71,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [document-register-element](https://www.npmjs.com/package/document-register-element):
   standalone working lightweight version of the W3C Custom Elements
   specification.
+- [cyclejs](https://www.npmjs.com/package/cyclejs): honestly reactive framework
+  for web user interfaces.
 
 ## CSS
 
