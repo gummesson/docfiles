@@ -247,3 +247,5 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   latest versions of dependencies.
 - [cut-release](https://www.npmjs.com/package/cut-release): make faster npm
   releases.
+- [npm-run-all](https://www.npmjs.com/package/npm-run-all): run multiple
+  npm-scripts sequentially or in parallel.
