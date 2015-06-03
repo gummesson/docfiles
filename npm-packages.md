@@ -40,6 +40,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 
 - [layzr.js](https://www.npmjs.com/package/layzr.js): small, fast, modern, and
   dependency-free library for lazy loading.
+- [headhesive](https://www.npmjs.com/package/headhesive): on-demand sticky
+  header.
 - [whatwg-fetch](https://www.npmjs.com/package/whatwg-fetch): `window.fetch`
   JavaScript polyfill.
 - [hyperglue](https://www.npmjs.com/package/hyperglue): update HTML elements in
