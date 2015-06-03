@@ -73,6 +73,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   specification.
 - [cyclejs](https://www.npmjs.com/package/cyclejs): honestly reactive framework
   for web user interfaces.
+- [flyd](https://www.npmjs.com/package/flyd): less is more, modular, functional
+  reactive programming library.
 
 ## CSS
 
