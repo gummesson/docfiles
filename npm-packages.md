@@ -245,3 +245,5 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [meow](https://npmjs.com/package/meow): command line application helper.
 - [npm-check-updates](https://npmjs.org/package/npm-check-updates): find the
   latest versions of dependencies.
+- [cut-release](https://www.npmjs.com/package/cut-release): make faster npm
+  releases.
