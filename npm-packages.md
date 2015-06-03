@@ -243,3 +243,5 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   use during development.
 - [psy](https://www.npmjs.com/package/psy): process monitor command.
 - [meow](https://npmjs.com/package/meow): command line application helper.
+- [npm-check-updates](https://npmjs.org/package/npm-check-updates): find the
+  latest versions of dependencies.
