@@ -26,3 +26,4 @@ A collection of useful and/or interesting resources about JavaScript.
 ## Websites
 
 - [JavaScript is Sexy](http://javascriptissexy.com/)
+- [JavaScript Common Pitfalls](http://nrn.io/view/javascript-common-pitfalls)
