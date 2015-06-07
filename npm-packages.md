@@ -153,6 +153,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   collection.
 - [sliced](https://www.npmjs.com/package/sliced): A faster alternative to
   `Array.prototype.slice.call(arguments)`.
+- [unique-now](https://www.npmjs.com/package/unique-now): generate unique UNIX
+  times.
 
 ## Graphics
 
