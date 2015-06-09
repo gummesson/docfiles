@@ -157,6 +157,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   times.
 - [stats-mean](https://www.npmjs.com/package/stats-mean): calculate mean of
   data.
+- [stats-median](https://www.npmjs.com/package/stats-median): calculate median
+  of data.
 
 ## Graphics
 
