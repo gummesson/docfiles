@@ -159,6 +159,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   data.
 - [stats-median](https://www.npmjs.com/package/stats-median): calculate median
   of data.
+- [stats-percentile](https://www.npmjs.com/package/stats-percentile): calculate
+  nth percentile of a list of values.
 
 ## Graphics
 
