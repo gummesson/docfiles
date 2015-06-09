@@ -161,6 +161,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   of data.
 - [stats-percentile](https://www.npmjs.com/package/stats-percentile): calculate
   nth percentile of a list of values.
+- [stats-variance](https://www.npmjs.com/package/stats-variance): calculate
+  variance of data.
 
 ## Graphics
 
