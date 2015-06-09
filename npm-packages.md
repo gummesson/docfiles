@@ -155,6 +155,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   `Array.prototype.slice.call(arguments)`.
 - [unique-now](https://www.npmjs.com/package/unique-now): generate unique UNIX
   times.
+- [stats-mean](https://www.npmjs.com/package/stats-mean): calculate mean of
+  data.
 
 ## Graphics
 
