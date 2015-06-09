@@ -17,6 +17,8 @@ git rev-parse --short HEAD
 
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
 - [Git workflow](https://github.com/asmeurer/git-workflow)
+- [How to undo (almost) anything with
+  Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 
 ## Websites
 
