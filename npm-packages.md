@@ -263,5 +263,5 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [yako](https://npmjs.com/package/yako): tiny DOM-less graph library.
 - [chart.js](https://www.npmjs.com/package/chart.js): simple HTML5 charts using
   the canvas element.
-- [chartist.js](https://github.com/gionkunz/chartist-js): simple responsive
+- [chartist.js](https://www.npmjs.com/package/chartist): simple responsive
   charts.
