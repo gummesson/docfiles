@@ -164,14 +164,6 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [stats-variance](https://www.npmjs.com/package/stats-variance): calculate
   variance of data.
 
-## Graphics
-
-- [yako](https://npmjs.com/package/yako): tiny DOM-less graph library.
-- [chart.js](https://www.npmjs.com/package/chart.js): simple HTML5 charts using
-  the canvas element.
-- [chartist.js](https://github.com/gionkunz/chartist-js): simple responsive
-  charts.
-
 ## HTTP
 
 - [ecstatic](https://www.npmjs.com/package/ecstatic): simple static file server
@@ -265,3 +257,11 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   releases.
 - [npm-run-all](https://www.npmjs.com/package/npm-run-all): run multiple
   npm-scripts sequentially or in parallel.
+
+## Visualization
+
+- [yako](https://npmjs.com/package/yako): tiny DOM-less graph library.
+- [chart.js](https://www.npmjs.com/package/chart.js): simple HTML5 charts using
+  the canvas element.
+- [chartist.js](https://github.com/gionkunz/chartist-js): simple responsive
+  charts.
