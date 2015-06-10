@@ -265,3 +265,6 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   the canvas element.
 - [chartist.js](https://www.npmjs.com/package/chartist): simple responsive
   charts.
+- [d3-bundler](https://www.npmjs.com/package/d3-bundler):
+  [Rollup](https://www.npmjs.com/package/rollup)-based bundler for
+  [D3](http://d3js.org/) modules.
