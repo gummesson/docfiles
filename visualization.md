@@ -10,3 +10,4 @@ A collection of useful and/or interesting resources about data visualization.
 ## Guides
 
 - [Learn JS Data](http://learnjsdata.com/)
+- [Intro to D3.js](https://square.github.io/intro-to-d3/)
