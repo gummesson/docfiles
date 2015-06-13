@@ -14,6 +14,7 @@ A collection of useful and/or interesting resources about JavaScript.
 
 - [Speaking JavaScript: An In-Depth Guide for
   Programmers](http://speakingjs.com/)
+- [Exploring ES6](https://leanpub.com/exploring-es6/read)
 
 ## Guides
 
