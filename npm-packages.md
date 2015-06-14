@@ -138,6 +138,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   for JavaScript, also known as lazy sequences.
 - [fast.js](https://github.com/codemix/fast.js): faster user-land
   reimplementations for several common builtin native JavaScript functions.
+- [streamjs](https://www.npmjs.com/package/streamjs): lazy object streaming
+  pipeline for JavaScript.
 
 ## Functions
 
