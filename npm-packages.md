@@ -259,6 +259,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   releases.
 - [npm-run-all](https://www.npmjs.com/package/npm-run-all): run multiple
   npm-scripts sequentially or in parallel.
+- [parallelshell](https://www.npmjs.com/package/parallelshell): invoke multiple
+  commands, running in parallel.
 
 ## Visualization
 
