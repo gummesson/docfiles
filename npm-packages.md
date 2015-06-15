@@ -272,3 +272,5 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [d3-bundler](https://www.npmjs.com/package/d3-bundler):
   [Rollup](https://www.npmjs.com/package/rollup)-based bundler for
   [D3](http://d3js.org/) modules.
+- [rickshaw](https://www.npmjs.com/package/rickshaw): toolkit for creating
+  interactive time series graphs.
