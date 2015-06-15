@@ -165,6 +165,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   nth percentile of a list of values.
 - [stats-variance](https://www.npmjs.com/package/stats-variance): calculate
   variance of data.
+- [range](https://www.npmjs.com/package/range): simple library for `range(a, b,
+  step)`.
 
 ## HTTP
 
