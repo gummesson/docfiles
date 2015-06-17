@@ -263,6 +263,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   npm-scripts sequentially or in parallel.
 - [parallelshell](https://www.npmjs.com/package/parallelshell): invoke multiple
   commands, running in parallel.
+- [rm-modules](https://www.npmjs.com/package/rm-modules): recursively remove all
+  `node_modules` directories within the chosen root directory
 
 ## Visualization
 
