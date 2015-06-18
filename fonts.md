@@ -9,3 +9,4 @@ A collection of useful and/or interesting fonts.
 - [Fira Mono](https://mozilla.github.io/Fira/)
 - [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)
 - [M+](http://mplus-fonts.osdn.jp/)
+- [Courier Prime](http://quoteunquoteapps.com/courierprime/)
