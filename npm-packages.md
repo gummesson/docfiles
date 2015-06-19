@@ -140,6 +140,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   reimplementations for several common builtin native JavaScript functions.
 - [streamjs](https://www.npmjs.com/package/streamjs): lazy object streaming
   pipeline for JavaScript.
+- [1-liners](https://www.npmjs.com/package/1-liners): useful oneliners and
+  shorthand functions.
 
 ## Functions
 
