@@ -19,6 +19,7 @@ git rev-parse --short HEAD
 - [Git workflow](https://github.com/asmeurer/git-workflow)
 - [How to undo (almost) anything with
   Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
+- [Git Hooks](http://githooks.com/)
 
 ## Websites
 
