@@ -11,6 +11,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   functions in series, each passing its results to the next function.
 - [run-series](https://www.npmjs.com/package/run-series): run an array of
   functions in series.
+- [run-auto](https://www.npmjs.com/package/run-auto): determine the best order
+  for running async functions, and run them.
 - [queuealot](https://www.npmjs.com/package/queuealot): bike shed queing module
   using closures for augmenting each result.
 
