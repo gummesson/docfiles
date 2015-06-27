@@ -85,6 +85,11 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [flyd](https://www.npmjs.com/package/flyd): less is more, modular, functional
   reactive programming library.
 
+## Color
+
+- [chroma-js](https://www.npmjs.com/package/chroma-js): JavaScript library for
+  color conversions.
+
 ## CSS
 
 - [cssnext](https://npmjs.com/package/cssnext): use tomorrow's CSS syntax today.
