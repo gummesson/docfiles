@@ -245,6 +245,11 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [stream-iterate](https://www.npmjs.com/package/stream-iterate): iterate
   through the values in a stream.
 
+## Strings
+
+- [patterns](https://www.npmjs.com/package/patterns): match a string against a
+  list of patterns.
+
 ## Testing
 
 - [tape](https://npmjs.com/package/tape): TAP-producing test harness for Node.js
