@@ -10,3 +10,5 @@
 ## Plugins
 
 - [z](https://github.com/rupa/z): jump around.
+- [k](https://github.com/rimraf/k): directory listings for Zsh with Git
+  features.
