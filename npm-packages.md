@@ -181,6 +181,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   variance of data.
 - [range](https://www.npmjs.com/package/range): simple library for `range(a, b,
   step)`.
+- [queso](https://www.npmjs.com/package/queso): turn a plain object into a query
+  string.
 
 ## HTTP
 
