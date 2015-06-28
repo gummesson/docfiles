@@ -14,6 +14,8 @@ A collection of useful and/or interesting resources about data visualization.
 - [D3.js Step by Step](http://zeroviscosity.com/category/d3-js-step-by-step)
 - [Learning
   D3](http://synthesis.sbecker.net/articles/2012/07/08/learning-d3-part-1)
+- [D3: scales, and
+  colors](http://www.jeromecukier.net/blog/2011/08/11/d3-scales-and-color/)
 
 ## Websites
 
