@@ -138,6 +138,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   x-browser.
 - [dombo](https://www.npmjs.com/package/dombo): limited subset of
   [jQuery](https://jquery.com/).
+- [scroll-to-element](https://www.npmjs.com/package/scroll-to-element): smooth
+  scrolling to an element via selector or node reference.
 
 ## Filesystem
 
