@@ -140,6 +140,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   [jQuery](https://jquery.com/).
 - [scroll-to-element](https://www.npmjs.com/package/scroll-to-element): smooth
   scrolling to an element via selector or node reference.
+- [get-anchor](https://www.npmjs.com/package/get-anchor): get an anchor by href
+  and optional query.
 
 ## Filesystem
 
