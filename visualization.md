@@ -16,6 +16,7 @@ A collection of useful and/or interesting resources about data visualization.
   D3](http://synthesis.sbecker.net/articles/2012/07/08/learning-d3-part-1)
 - [D3: scales, and
   colors](http://www.jeromecukier.net/blog/2011/08/11/d3-scales-and-color/)
+- [Visualization Cheatsheet](https://github.com/tmcw/visualization-cheatsheet)
 
 ## Websites
 
