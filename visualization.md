@@ -2,6 +2,11 @@
 
 A collection of useful and/or interesting resources about data visualization.
 
+## Articles
+
+- [Designing Data-Driven
+  Interfaces](https://medium.com/truth-labs/designing-data-driven-interfaces-a75d62997631)
+
 ## Books
 
 - [Interactive Data Visualization for the
