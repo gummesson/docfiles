@@ -9,6 +9,7 @@ A collection of useful and/or interesting fonts.
 - [Fantasque Sans Mono](http://openfontlibrary.org/en/font/fantasque-sans-mono)
 - [Fira Mono](https://mozilla.github.io/Fira/)
 - [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)
+- [Input](http://input.fontbureau.com/)
 - [M+](http://mplus-fonts.osdn.jp/)
 
 ## Sans-serif
