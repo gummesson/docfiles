@@ -1,5 +1,7 @@
 # docfiles
 
+Like dotfiles, but for documenting knowledge.
+
 - [ack](ack.md)
 - [bundler](bundler.md)
 - [cheatsheets](cheatsheets.md)
