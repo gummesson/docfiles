@@ -21,5 +21,5 @@ npm version <patch|minor|major> -m "<message>"
 ### Install a package from cache (for offline usage)
 
 ```
-npm --cache-min 9999999 install <package>
+npm --cache-min Infinity install <package>
 ```
