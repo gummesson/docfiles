@@ -252,6 +252,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   it so that each line is a chunk.
 - [stream-iterate](https://www.npmjs.com/package/stream-iterate): iterate
   through the values in a stream.
+- [single-line-log](https://www.npmjs.com/package/single-line-log): keep writing
+  to the same line in the terminal.
 
 ## Strings
 
