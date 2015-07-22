@@ -187,6 +187,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   step)`.
 - [queso](https://www.npmjs.com/package/queso): turn a plain object into a query
   string.
+- [fuzzysearch](https://www.npmjs.com/package/fuzzysearch): tiny and
+  blazing-fast fuzzy search in JavaScript.
 
 ## HTTP
 
