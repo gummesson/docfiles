@@ -20,6 +20,7 @@ git rev-parse --short HEAD
 - [How to undo (almost) anything with
   Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 - [Git Hooks](http://githooks.com/)
+- [Git Style Guide](https://github.com/jonathanong/git-style-guide)
 
 ## Websites
 
