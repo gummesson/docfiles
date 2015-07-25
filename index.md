@@ -18,5 +18,6 @@ Like dotfiles, but for documenting knowledge.
 - [pacman-yaourt](pacman-yaourt.md)
 - [programming](programming.md)
 - [versioning](versioning.md)
+- [vim](vim.md)
 - [visualization](visualization.md)
 - [zsh](zsh.md)
