@@ -130,6 +130,12 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [level-indexer](https://www.npmjs.com/package/level-indexer): generic indexer
   for LevelDB.
 
+## Data structures
+
+- [seamless-immutable](https://www.npmjs.com/package/seamless-immutable):
+  Immutable data structures for JavaScript which are backwards-compatible with
+  normal arrays and objects.
+
 ## DOM
 
 - [tiny-element](https://www.npmjs.com/package/tiny-element): tiny DOM element
