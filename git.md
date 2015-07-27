@@ -21,6 +21,8 @@ git rev-parse --short HEAD
   Git](https://github.com/blog/2019-how-to-undo-almost-anything-with-git)
 - [Git Hooks](http://githooks.com/)
 - [Git Style Guide](https://github.com/jonathanong/git-style-guide)
+- [Keep your branch clean with fixup and
+  autosquash](http://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html)
 
 ## Websites
 
