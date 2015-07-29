@@ -6,6 +6,7 @@
 
 - [Master Your Z Shell with These Outrageously Useful
   Tips](http://reasoniamhere.com/2014/01/11/outrageously-useful-tips-to-master-your-z-shell/)
+- [Customizing your shell prompt](http://www.nparikh.org/unix/prompt.php)
 
 ## Plugins
 
