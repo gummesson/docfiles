@@ -9,6 +9,7 @@ A collection of useful and/or interesting resources about JavaScript.
 - [useful js: curry and
   bind](http://phuu.net/2012/11/02/javascript-function-call-and-function-apply.html)
 - [Why Curry Helps](http://hughfdjackson.com/javascript/why-curry-helps/)
+- [Favoring Curry](http://fr.umio.us/favoring-curry/)
 
 ## Books
 
