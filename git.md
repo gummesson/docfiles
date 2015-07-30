@@ -23,6 +23,7 @@ git rev-parse --short HEAD
 - [Git Style Guide](https://github.com/jonathanong/git-style-guide)
 - [Keep your branch clean with fixup and
   autosquash](http://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html)
+- [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 
 ## Websites
 
