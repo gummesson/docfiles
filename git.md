@@ -24,6 +24,8 @@ git rev-parse --short HEAD
 - [Keep your branch clean with fixup and
   autosquash](http://fle.github.io/git-tip-keep-your-branch-clean-with-fixup-and-autosquash.html)
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
+- [Interactive Git
+  rebase](http://bloerg.net/2015/07/29/interactive-git-rebase.html)
 
 ## Websites
 
