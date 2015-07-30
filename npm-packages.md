@@ -246,6 +246,7 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   handler for [brick-server](https://www.npmjs.com/package/brick-router).
 - [hyperstream](https://www.npmjs.com/package/hyperstream): stream HTML into
   html at a CSS selector.
+- [methodist](https://www.npmjs.com/package/methodist): HTTP method matching.
 
 ## Streams
 
