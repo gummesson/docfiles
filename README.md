@@ -4,7 +4,6 @@ Like dotfiles, but for documenting knowledge.
 
 - [ack](ack.md)
 - [bundler](bundler.md)
-- [cheatsheets](cheatsheets.md)
 - [css](css.md)
 - [ctags](ctags.md)
 - [docker](docker.md)
