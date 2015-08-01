@@ -15,6 +15,7 @@ Like dotfiles, but for documenting knowledge.
 - [npm-packages](npm-packages.md)
 - [npm](npm.md)
 - [pacman-yaourt](pacman-yaourt.md)
+- [parens](parens.md)
 - [programming](programming.md)
 - [versioning](versioning.md)
 - [vim](vim.md)
