@@ -264,6 +264,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   through the values in a stream.
 - [single-line-log](https://www.npmjs.com/package/single-line-log): keep writing
   to the same line in the terminal.
+- [mississippi](https://github.com/maxogden/mississippi): a collection of useful
+  stream utility modules.
 
 ## Strings
 
