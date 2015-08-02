@@ -196,6 +196,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [fuzzysearch](https://www.npmjs.com/package/fuzzysearch): tiny and
   blazing-fast fuzzy search in JavaScript.
 - [as-array](https://www.npmjs.com/package/as-array): make any value an array.
+- [sluggish](https://www.npmjs.com/package/sluggish): sluggish slug generator
+  that works universally.
 
 ## HTTP
 
