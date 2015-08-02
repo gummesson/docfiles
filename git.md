@@ -13,6 +13,12 @@ git rev-parse HEAD
 git rev-parse --short HEAD
 ```
 
+### Change remote URL
+
+```
+git remote set-url origin <url>
+```
+
 ## Guides
 
 - [Flight rules for git](https://github.com/k88hudson/git-flight-rules)
