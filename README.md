@@ -10,6 +10,7 @@ Like dotfiles, but for documenting knowledge.
 - [fonts](fonts.md)
 - [git](git.md)
 - [gnupg](gnupg.md)
+- [haskell](haskell.md)
 - [javascript](javascript.md)
 - [longreads](longreads.md)
 - [npm-packages](npm-packages.md)
