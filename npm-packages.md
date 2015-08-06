@@ -44,6 +44,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   `gh-pages` branch on GitHub.
 - [spoof](https://www.npmjs.com/package/spoof): easily spoof your MAC address in
   OS X and Linux.
+- [register-multicast-dns](https://www.npmjs.com/package/register-multicast-dns):
+  easily route a `.local` domain to your computer.
 
 ## Client
 
