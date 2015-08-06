@@ -25,6 +25,11 @@ A collection of useful and/or interesting resources about JavaScript.
 - [How to be a better NodeJS Module
   Maintainer](http://danhough.com/blog/nodejs-maintainer/)
 
+## Specifications
+
+- [Fantasy Land](https://github.com/fantasyland/fantasy-land): specification for
+  interoperability of common algebraic structures in JavaScript.
+
 ## Websites
 
 - [JavaScript is Sexy](http://javascriptissexy.com/)
