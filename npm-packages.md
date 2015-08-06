@@ -42,6 +42,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   Linux.
 - [gh-pages](https://www.npmjs.com/package/gh-pages): publish files to a
   `gh-pages` branch on GitHub.
+- [spoof](https://www.npmjs.com/package/spoof): easily spoof your MAC address in
+  OS X and Linux.
 
 ## Client
 
