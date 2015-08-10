@@ -18,11 +18,11 @@ Like dotfiles, but for documenting knowledge.
 - [pacman-yaourt](pacman-yaourt.md)
 - [parens](parens.md)
 - [programming](programming.md)
+- [typography](typography.md)
 - [versioning](versioning.md)
 - [vim](vim.md)
 - [visualization](visualization.md)
 - [zsh](zsh.md)
-- [typography](typography.md)
 
 ## License
 
