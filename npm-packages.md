@@ -139,6 +139,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [seamless-immutable](https://www.npmjs.com/package/seamless-immutable):
   Immutable data structures for JavaScript which are backwards-compatible with
   normal arrays and objects.
+- [immu](https://www.npmjs.com/package/immu): tiny, fail-fast, naked, simple
+  immutable data structure library.
 
 ## DOM
 
