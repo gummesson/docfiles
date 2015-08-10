@@ -22,6 +22,7 @@ Like dotfiles, but for documenting knowledge.
 - [vim](vim.md)
 - [visualization](visualization.md)
 - [zsh](zsh.md)
+- [typography](typography.md)
 
 ## License
 
