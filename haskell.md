@@ -15,6 +15,7 @@ A collection of useful and/or interesting resources about Haskell.
 ## Guides
 
 - [School of Haskell](https://www.fpcomplete.com/school)
+- [What I Wish I Knew When Learning Haskell](http://dev.stephendiehl.com/hask/)
 
 ## Videos
 
