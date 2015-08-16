@@ -6,6 +6,8 @@ A collection of useful and/or interesting resources about Haskell.
 
 - [Learning Haskell as a
   Nonprogrammer](https://superginbaby.wordpress.com/2014/11/18/learning-haskell-as-a-nonprogrammer/)
+- [Practical testing in
+  Haskell](http://jaspervdj.be/posts/2015-03-13-practical-testing-in-haskell.html)
 
 ## Books
 
