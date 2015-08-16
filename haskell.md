@@ -12,6 +12,10 @@ A collection of useful and/or interesting resources about Haskell.
 - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/chapters)
 - [Real World Haskell](http://book.realworldhaskell.org/read/)
 
+## Courses
+
+- [Introduction to Haskell](http://www.seas.upenn.edu/~cis194/)
+
 ## Guides
 
 - [School of Haskell](https://www.fpcomplete.com/school)
