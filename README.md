@@ -7,6 +7,7 @@ Like dotfiles, but for documenting knowledge.
 - [css](css.md)
 - [ctags](ctags.md)
 - [docker](docker.md)
+- [documentation.md](documentation.md)
 - [fonts](fonts.md)
 - [git](git.md)
 - [gnupg](gnupg.md)
