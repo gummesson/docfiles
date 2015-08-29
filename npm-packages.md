@@ -141,6 +141,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   normal arrays and objects.
 - [immu](https://www.npmjs.com/package/immu): tiny, fail-fast, naked, simple
   immutable data structure library.
+- [numeric-id-map](https://www.npmjs.com/package/numeric-id-map): data structure
+  that maps entries to numeric ids.
 
 ## DOM
 
