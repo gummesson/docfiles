@@ -170,6 +170,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   pipeline for JavaScript.
 - [1-liners](https://www.npmjs.com/package/1-liners): useful oneliners and
   shorthand functions.
+- [tcomb](https://www.npmjs.com/package/tcomb): type checking and DDD for
+  JavaScript.
 
 ## Functions
 
