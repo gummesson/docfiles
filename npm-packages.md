@@ -289,6 +289,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   `process.exit` when TAP output is complete.
 - [browser-test-helpers](https://www.npmjs.com/package/browser-test-helpers):
   small set of generic test helpers for browser interaction tests.
+- [assert-element](https://www.npmjs.com/package/assert-element): assertions for
+  checking virtual nodes.
 
 ## Tools
 
