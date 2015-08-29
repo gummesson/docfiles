@@ -208,6 +208,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [as-array](https://www.npmjs.com/package/as-array): make any value an array.
 - [sluggish](https://www.npmjs.com/package/sluggish): sluggish slug generator
   that works universally.
+- [plucker](https://www.npmjs.com/package/plucker): pluck nested properties from
+  an object.
 
 ## HTTP
 
