@@ -210,6 +210,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   that works universally.
 - [plucker](https://www.npmjs.com/package/plucker): pluck nested properties from
   an object.
+- [obj-type](https://www.npmjs.com/package/obj-type): returns any kind of
+  object's type.
 
 ## HTTP
 
