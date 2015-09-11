@@ -88,6 +88,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   for web user interfaces.
 - [flyd](https://www.npmjs.com/package/flyd): less is more, modular, functional
   reactive programming library.
+- [putainde-localstorage](https://www.npmjs.com/package/putainde-localstorage):
+  simple localstorage abstraction.
 
 ## Color
 
