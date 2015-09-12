@@ -214,6 +214,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   an object.
 - [obj-type](https://www.npmjs.com/package/obj-type): returns any kind of
   object's type.
+- [value-pipe](https://www.npmjs.com/package/value-pipe): pipe a value through a
+  list of sync transform function.
 
 ## HTTP
 
