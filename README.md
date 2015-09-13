@@ -10,6 +10,7 @@ Like dotfiles, but for documenting knowledge.
 - [docker](docker.md)
 - [documentation](documentation.md)
 - [fonts](fonts.md)
+- [frankenwm](frankenwm.md)
 - [git](git.md)
 - [gnupg](gnupg.md)
 - [haskell](haskell.md)
