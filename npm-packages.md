@@ -90,6 +90,9 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   reactive programming library.
 - [putainde-localstorage](https://www.npmjs.com/package/putainde-localstorage):
   simple localstorage abstraction.
+- [delorean](https://www.npmjs.com/package/delorean): tiny
+  [Flux](https://facebook.github.io/flux/docs/overview.html) pattern
+  implementation.
 
 ## Color
 
