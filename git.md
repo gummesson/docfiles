@@ -32,6 +32,8 @@ git remote set-url origin <url>
 - [How to Write a Git Commit Message](http://chris.beams.io/posts/git-commit/)
 - [Interactive Git
   rebase](http://bloerg.net/2015/07/29/interactive-git-rebase.html)
+- [19 Tips For Everyday Git
+  Use](http://www.alexkras.com/19-git-tips-for-everyday-use/)
 
 ## Websites
 
