@@ -216,6 +216,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   object's type.
 - [value-pipe](https://www.npmjs.com/package/value-pipe): pipe a value through a
   list of sync transform function.
+- [dates-of-today](https://www.npmjs.com/package/dates-of-today): get today's
+  date as an object.
 
 ## HTTP
 
