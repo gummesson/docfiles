@@ -21,6 +21,7 @@ Like dotfiles, but for documenting knowledge.
 - [pacman-yaourt](pacman-yaourt.md)
 - [parens](parens.md)
 - [programming](programming.md)
+- [rest](rest.md)
 - [typography](typography.md)
 - [versioning](versioning.md)
 - [vim](vim.md)
