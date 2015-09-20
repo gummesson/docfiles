@@ -138,6 +138,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   filtered and ordered by glob patterns.
 - [level-indexer](https://www.npmjs.com/package/level-indexer): generic indexer
   for LevelDB.
+- [level-sublevel](https://www.npmjs.com/package/level-sublevel): partition
+  levelup databases.
 
 ## Data structures
 
