@@ -9,6 +9,7 @@ Like dotfiles, but for documenting knowledge.
 - [ctags](ctags.md)
 - [docker](docker.md)
 - [documentation](documentation.md)
+- [flux](flux.md)
 - [fonts](fonts.md)
 - [frankenwm](frankenwm.md)
 - [git](git.md)
