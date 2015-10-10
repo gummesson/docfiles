@@ -234,6 +234,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [nets](http://npmjs.com/package/nets): HTTP client that works the same in
   Node.js and browsers. Uses [xhr](https://www.npmjs.org/package/xhr) for
   browsers and [request](https://www.npmjs.org/package/request) for Node.js.
+- [axios](https://www.npmjs.com/package/axios): promise-based HTTP client for
+  the browser and Node.js.
 
 ## Images
 
