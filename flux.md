@@ -7,6 +7,8 @@ A collection of useful and/or interesting resources about the
 
 - [Single State Tree +
   Flux](http://merrickchristensen.com/articles/single-state-tree.html)
+- [Redux best
+  practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e)
 
 ## Implementations
 
