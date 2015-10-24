@@ -9,6 +9,8 @@ A collection of useful and/or interesting resources about the
   Flux](http://merrickchristensen.com/articles/single-state-tree.html)
 - [Redux best
   practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e)
+- [Managing data flow on the
+  client-side](http://blog.madewithlove.be/post/redux/)
 
 ## Implementations
 
