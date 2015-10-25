@@ -295,6 +295,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 
 - [patterns](https://www.npmjs.com/package/patterns): match a string against a
   list of patterns.
+- [sregex](https://www.npmjs.com/package/sregex): simple string regular
+  expression that exposes matches in defined variables.
 
 ## Testing
 
