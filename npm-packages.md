@@ -297,6 +297,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   list of patterns.
 - [sregex](https://www.npmjs.com/package/sregex): simple string regular
   expression that exposes matches in defined variables.
+- [hash-match](https://www.npmjs.com/package/hash-match): match `location.hash`
+  to routes.
 
 ## Testing
 
