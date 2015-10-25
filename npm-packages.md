@@ -299,6 +299,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   expression that exposes matches in defined variables.
 - [hash-match](https://www.npmjs.com/package/hash-match): match `location.hash`
   to routes.
+- [pathname-match](https://www.npmjs.com/package/pathname-match): strip a url to
+  only match the `pathname`.
 
 ## Testing
 
