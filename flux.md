@@ -11,6 +11,8 @@ A collection of useful and/or interesting resources about the
   practices](https://medium.com/lexical-labs-engineering/redux-best-practices-64d59775802e)
 - [Managing data flow on the
   client-side](http://blog.madewithlove.be/post/redux/)
+- [Understanding Redux (or, How I Fell in Love with a JavaScript State
+  Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
 
 ## Implementations
 
