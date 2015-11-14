@@ -14,6 +14,7 @@ Like dotfiles, but for documenting knowledge.
 - [frankenwm](frankenwm.md)
 - [git](git.md)
 - [gnupg](gnupg.md)
+- [go-binaries](go-binaries.md)
 - [haskell](haskell.md)
 - [javascript](javascript.md)
 - [longreads](longreads.md)
