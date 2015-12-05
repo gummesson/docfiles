@@ -315,6 +315,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   small set of generic test helpers for browser interaction tests.
 - [assert-element](https://www.npmjs.com/package/assert-element): assertions for
   checking virtual nodes.
+- [dom-serialize](https://www.npmjs.com/package/dom-serialize): serialize any
+  DOM node into a string.
 
 ## Tools
 
