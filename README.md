@@ -7,6 +7,7 @@ Like dotfiles, but for documenting knowledge.
 - [bundler](bundler.md)
 - [css](css.md)
 - [ctags](ctags.md)
+- [data](data.md)
 - [docker](docker.md)
 - [documentation](documentation.md)
 - [flux](flux.md)
