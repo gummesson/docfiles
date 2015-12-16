@@ -14,6 +14,11 @@ A collection of useful and/or interesting resources about the
 - [Understanding Redux (or, How I Fell in Love with a JavaScript State
   Container)](http://www.youhavetolearncomputers.com/blog/2015/9/15/a-conceptual-overview-of-redux-or-how-i-fell-in-love-with-a-javascript-state-container)
 
+## Courses
+
+- [Getting Started with
+  Redux](https://egghead.io/series/getting-started-with-redux)
+
 ## Implementations
 
 - [redux](https://www.npmjs.com/package/redux): predictable state container for
