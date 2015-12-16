@@ -220,6 +220,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   list of sync transform function.
 - [dates-of-today](https://www.npmjs.com/package/dates-of-today): get today's
   date as an object.
+- [universal-copy](https://www.npmjs.com/package/universal-copy): deep copy
+  anything.
 
 ## HTTP
 
