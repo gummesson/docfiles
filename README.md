@@ -2,7 +2,7 @@
 
 Like dotfiles, but for documenting knowledge.
 
-Add link- [ack](ack.md)
+- [ack](ack.md)
 - [architecture](architecture.md)
 - [bundler](bundler.md)
 - [css](css.md)
