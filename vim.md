@@ -3,6 +3,13 @@
 A collection of useful and/or interesting resources about
 [Vim](http://www.vim.org).
 
+## Articles
+
+- [Vim Killer Features Part 1: Text
+  Objects](http://codyveal.com/posts/vim-killer-features-part-1-text-objects/)
+- [Vim Killer Features Part 2: File
+  Navigation](http://codyveal.com/posts/vim-killer-features-part-2-file-navigation/)
+
 ## Cheatsheets
 
 - [Vim Cheat Sheet](http://vim.rtorr.com/)
