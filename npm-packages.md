@@ -319,6 +319,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   checking virtual nodes.
 - [dom-serialize](https://www.npmjs.com/package/dom-serialize): serialize any
   DOM node into a string.
+- [hook-std](https://github.com/sindresorhus/hook-std): hook and modify
+  stdout/stderr.
 
 ## Tools
 
