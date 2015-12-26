@@ -25,6 +25,7 @@ A collection of useful and/or interesting resources about JavaScript.
   Prototypes](http://sporto.github.io/blog/2013/02/22/a-plain-english-guide-to-javascript-prototypes/)
 - [How to be a better NodeJS Module
   Maintainer](http://danhough.com/blog/nodejs-maintainer/)
+- [Simplified JavaScript Jargon](https://github.com/HugoGiraudel/SJSJ)
 
 ## Specifications
 
