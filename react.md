@@ -11,3 +11,4 @@ A collection of useful and/or interesting resources about
 ## Cheatsheets
 
 - [React Cheat Sheet](http://reactcheatsheet.com/)
+- [CSS in JS](https://github.com/MicheleBertoli/css-in-js)
