@@ -27,6 +27,7 @@ Like dotfiles, but for documenting knowledge.
 - [react](react.md)
 - [rest](rest.md)
 - [typography](typography.md)
+- [unix](unix.md)
 - [versioning](versioning.md)
 - [vim](vim.md)
 - [visualization](visualization.md)
