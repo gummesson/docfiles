@@ -29,6 +29,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   [Babel](https://babeljs.io/).
 - [uglifyify](https://npmjs.com/package/uglifyify): minify your code using
   [UglifyJS](https://www.npmjs.com/package/uglify-js).
+- [remapify](https://www.npmjs.com/package/remapify): map whole directories as
+  different directories to browserify.
 - [budo](https://www.npmjs.com/package/budo): a browserify server for rapid
   prototyping.
 
