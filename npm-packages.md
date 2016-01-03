@@ -348,6 +348,7 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   commands, running in parallel.
 - [rm-modules](https://www.npmjs.com/package/rm-modules): recursively remove all
   `node_modules` directories within the chosen root directory.
+- [rucola](https://www.npmjs.com/package/rucola): runtime configuration loader.
 
 ## Visualization
 
