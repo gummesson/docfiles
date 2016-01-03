@@ -48,6 +48,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   OS X and Linux.
 - [register-multicast-dns](https://www.npmjs.com/package/register-multicast-dns):
   easily route a `.local` domain to your computer.
+- [apply-pr](https://www.npmjs.com/package/apply-pr): command line tool for
+  applying GitHub pull requests.
 
 ## Client
 
@@ -346,8 +348,6 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   commands, running in parallel.
 - [rm-modules](https://www.npmjs.com/package/rm-modules): recursively remove all
   `node_modules` directories within the chosen root directory.
-- [apply-pr](https://www.npmjs.com/package/apply-pr): command line tool for
-  applying GitHub pull requests.
 
 ## Visualization
 
