@@ -20,6 +20,7 @@ A collection of useful and/or interesting resources about
 - [Protect Notes with Vim
   Encryption](http://usevim.com/2013/11/01/vim-encryption/)
 - [The Patient Vimmer](http://romainl.github.io/the-patient-vimmer/)
+- [Vim Galore](https://github.com/mhinz/vim-galore)
 
 ## Tools
 
