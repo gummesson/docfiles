@@ -11,6 +11,7 @@ Like dotfiles, but for documenting knowledge.
 - [data](data.md)
 - [docker](docker.md)
 - [documentation](documentation.md)
+- [elm](elm.md)
 - [flux](flux.md)
 - [fonts](fonts.md)
 - [frankenwm](frankenwm.md)
