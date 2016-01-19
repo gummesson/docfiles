@@ -226,6 +226,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   date as an object.
 - [universal-copy](https://www.npmjs.com/package/universal-copy): deep copy
   anything.
+- [dotpather](https://www.npmjs.com/package/dotpather): utility for looking up
+  object properties based on dot-paths.
 
 ## HTTP
 
