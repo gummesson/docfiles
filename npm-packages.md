@@ -228,6 +228,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   anything.
 - [dotpather](https://www.npmjs.com/package/dotpather): utility for looking up
   object properties based on dot-paths.
+- [just-pluck](https://www.npmjs.com/package/just-pluck): simple pluck without
+  the madness.
 
 ## HTTP
 
