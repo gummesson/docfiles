@@ -15,3 +15,6 @@ A collection of useful and/or interesting resources about
     Actions](https://medium.com/@diamondgfx/understanding-elm-signals-mailboxes-addresses-and-actions-7932781396ef#.bh9i2t33a)
     - [Working with Elm: Applying Signals and Actions to our
       App](https://medium.com/@diamondgfx/working-with-elm-applying-signals-and-actions-to-our-app-e1c649bd0d96#.z8yk881i0)
+- [Real World Elm - Part
+  1](http://engineering.truqu.com/2015/08/19/real-world-elm-part-1.html)
+  - [Real World Elm - Part 2](http://engineering.truqu.com/2015/09/25/real-world-elm-part-2.html)
