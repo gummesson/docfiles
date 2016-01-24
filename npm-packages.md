@@ -31,6 +31,9 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   [UglifyJS](https://www.npmjs.com/package/uglify-js).
 - [remapify](https://www.npmjs.com/package/remapify): map whole directories as
   different directories to browserify.
+- [unassertify](https://www.npmjs.com/package/unassertify): encourage reliable
+  programming by writing assertions in production code, and compiling them away
+  from release.
 - [budo](https://www.npmjs.com/package/budo): a browserify server for rapid
   prototyping.
 
