@@ -18,3 +18,7 @@ A collection of useful and/or interesting resources about
 - [Real World Elm - Part
   1](http://engineering.truqu.com/2015/08/19/real-world-elm-part-1.html)
   - [Real World Elm - Part 2](http://engineering.truqu.com/2015/09/25/real-world-elm-part-2.html)
+
+## Guides
+
+- [Elm tutorial](http://www.elm-tutorial.org/)
