@@ -22,3 +22,4 @@ A collection of useful and/or interesting resources about
 ## Guides
 
 - [Elm tutorial](http://www.elm-tutorial.org/)
+- [Road to Elm](http://www.lambdacat.com/road-to-elm-index/)
