@@ -5,6 +5,7 @@ Like dotfiles, but for documenting knowledge.
 - [ack](ack.md)
 - [architecture](architecture.md)
 - [babel](babel.md)
+- [badges](badges.md)
 - [bundler](bundler.md)
 - [css](css.md)
 - [ctags](ctags.md)
