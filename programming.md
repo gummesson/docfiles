@@ -2,6 +2,11 @@
 
 A collection of useful and/or interesting resources about programming.
 
+## Articles
+
+- [ What Is Functional
+  Programming?](http://blog.jenkster.com/2015/12/what-is-functional-programming.html)
+
 ## Books
 
 - [Professor Frisby's Mostly Adequate Guide to Functional
