@@ -24,3 +24,5 @@ A collection of useful and/or interesting resources about
 - [Elm tutorial](http://www.elm-tutorial.org/)
 - [Road to Elm](http://www.lambdacat.com/road-to-elm-index/)
 - [elm-for-js](https://github.com/elm-guides/elm-for-js)
+- [A Step-to-step Guide to Elm
+  Signal](http://yang-wei.github.io/blog/2016/02/04/a-step-to-step-guide-to-elm-signal/)
