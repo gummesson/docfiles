@@ -233,6 +233,7 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
   object properties based on dot-paths.
 - [just-pluck](https://www.npmjs.com/package/just-pluck): simple pluck without
   the madness.
+- [matcher](https://www.npmjs.com/package/matcher): simple wildcard matching.
 
 ## HTTP
 
