@@ -234,6 +234,8 @@ A collection of useful and/or interesting [npm](https://npmjs.com/) packages.
 - [just-pluck](https://www.npmjs.com/package/just-pluck): simple pluck without
   the madness.
 - [matcher](https://www.npmjs.com/package/matcher): simple wildcard matching.
+- [instadate](https://www.npmjs.com/package/instadate): a minimal high
+  performance date library.
 
 ## HTTP
 
