@@ -28,3 +28,16 @@ A collection of useful and/or interesting resources about
   Signal](http://yang-wei.github.io/blog/2016/02/04/a-step-to-step-guide-to-elm-signal/)
 - [Time Travel Back to Understand Elm
   Mailbox](http://yang-wei.github.io/blog/2016/02/08/time-travel-back-to-understand-elm-mailbox/)
+
+### Fundamentals
+
+- [Elm Setup](https://dennisreimann.de/articles/elm-setup-first-project.html)
+- [Elm Modules and
+  Imports](https://dennisreimann.de/articles/elm-modules-import.html)
+- [Elm Functions](https://dennisreimann.de/articles/elm-functions.html)
+- [Elm Data Structures
+  (1)](https://dennisreimann.de/articles/elm-data-structures-list-array-set-dict.html)
+- [Elm Data Structures
+  (2)](https://dennisreimann.de/articles/elm-data-structures-record-tuple.html)
+- [Elm Data Structures
+  (3)](https://dennisreimann.de/articles/elm-data-structures-union-type.html)
