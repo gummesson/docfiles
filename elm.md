@@ -28,6 +28,8 @@ A collection of useful and/or interesting resources about
   Signal](http://yang-wei.github.io/blog/2016/02/04/a-step-to-step-guide-to-elm-signal/)
 - [Time Travel Back to Understand Elm
   Mailbox](http://yang-wei.github.io/blog/2016/02/08/time-travel-back-to-understand-elm-mailbox/)
+- [Decoding JSON Structures with
+  Elm](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
 
 ### Fundamentals
 
