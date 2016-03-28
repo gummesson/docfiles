@@ -10,3 +10,4 @@ A collection of useful and/or interesting resources about CSS.
 
 - [The Skinny on CSS Attribute
   Selectors](https://css-tricks.com/attribute-selectors/)
+- [CSS Protips](https://github.com/AllThingsSmitty/css-protips)
