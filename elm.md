@@ -19,6 +19,10 @@ A collection of useful and/or interesting resources about
   1](http://engineering.truqu.com/2015/08/19/real-world-elm-part-1.html)
   - [Real World Elm - Part 2](http://engineering.truqu.com/2015/09/25/real-world-elm-part-2.html)
 
+## Books
+
+- [Beginning Elm](http://elmprogramming.com/)
+
 ## Cheatsheet
 
 - [Elm Cheat Sheet](https://github.com/izdi/elm-cheat-sheet)
