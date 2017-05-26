@@ -40,3 +40,4 @@ git remote set-url origin <url>
 - [First Aid Git](http://firstaidgit.io/): a searchable collection of the most
   frequently asked Git questions.
 - [Oh shit, git!](http://ohshitgit.com/)
+- [git-tips](http://git.io/git-tips)
