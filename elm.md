@@ -34,6 +34,8 @@ A collection of useful and/or interesting resources about
   Mailbox](http://yang-wei.github.io/blog/2016/02/08/time-travel-back-to-understand-elm-mailbox/)
 - [Decoding JSON Structures with
   Elm](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
+- [Making Elm code more compact and more
+  readable](https://medium.com/elm-shorts/making-elm-code-more-compact-and-more-readable-935067f81829)
 
 ### Fundamentals
 
