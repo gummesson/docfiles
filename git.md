@@ -34,6 +34,8 @@ git remote set-url origin <url>
   rebase](http://bloerg.net/2015/07/29/interactive-git-rebase.html)
 - [19 Tips For Everyday Git
   Use](http://www.alexkras.com/19-git-tips-for-everyday-use/)
+- [Little things I like to do with
+  Git](https://csswizardry.com/2017/05/little-things-i-like-to-do-with-git/)
 
 ## Websites
 
