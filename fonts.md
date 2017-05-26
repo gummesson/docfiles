@@ -11,6 +11,7 @@ A collection of useful and/or interesting fonts.
 - [Inconsolata](http://www.levien.com/type/myfonts/inconsolata.html)
 - [Input](http://input.fontbureau.com/)
 - [M+](http://mplus-fonts.osdn.jp/)
+- [mononoki](http://madmalik.github.io/mononoki/)
 
 ## Sans-serif
 
