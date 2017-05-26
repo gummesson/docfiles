@@ -36,6 +36,8 @@ A collection of useful and/or interesting resources about
   Elm](https://robots.thoughtbot.com/decoding-json-structures-with-elm)
 - [Making Elm code more compact and more
   readable](https://medium.com/elm-shorts/making-elm-code-more-compact-and-more-readable-935067f81829)
+- [Intro to Records in
+  Elm](https://medium.com/elm-shorts/intro-to-records-in-elm-51bc5e933a57)
 
 ### Fundamentals
 
