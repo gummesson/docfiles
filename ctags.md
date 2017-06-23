@@ -22,3 +22,7 @@ easily located by a text editor or other utility.
 ```
 ctags -R .
 ```
+
+## Patterns
+
+- [JavaScript](https://github.com/romainl/ctags-patterns-for-javascript)
